@@ -4,7 +4,7 @@
 # <            Language Configuration File.            >
 # <            Translation by Jensz12                  >
 # +----------------------------------------------------+
-
+D
 prefix: '&4[&cPet&4]&r '
 help: '&eBrug &6/%cmd% &efor hjælp.'
 no_permission: '&6%perm% &eDu har ikke tilladelse, til at bruge denne kommando.'
